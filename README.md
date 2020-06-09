@@ -7,3 +7,4 @@ The people who are following ***SOCIAL DISTANCING*** will be highlighted by gree
 
 The program also counts the number of people in a particular frame, the number of safe people, the people with medium and high risks.
 
+The output file is attached. But it is the compressed version as the original one was greater than 25 mb.
